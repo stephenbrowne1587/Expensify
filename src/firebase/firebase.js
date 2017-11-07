@@ -39,11 +39,11 @@ export {firebase, database as default };
 //   });
   
 
-database.ref("expenses").push({
-  description: "this is the first description",
-  note: "",
-  amount: 2233,
-  createdAt: 0
-});
+// database.ref("expenses").push({
+//   description: "this is the first description",
+//   note: "",
+//   amount: 2233,
+//   createdAt: 0
+// });
 
 
