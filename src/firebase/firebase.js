@@ -45,5 +45,3 @@ export {firebase, database as default };
 //   amount: 2233,
 //   createdAt: 0
 // });
-
-
